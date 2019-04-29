@@ -1,0 +1,11 @@
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\telecom\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\TELECOM\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\uibs\bin\Debug\WindowsFormsApplication5.exe.config
+F:\uibs\obj\Debug\WindowsFormsApplication5.exe
+F:\uibs\obj\Debug\WindowsFormsApplication5.pdb
